@@ -26,7 +26,16 @@ image: require("../assets/images/image 3.png")
     name:"Jus de fruits",
     price:"30 DH",
     image: require("../assets/images/image 5.png")
+},
+{
+id : 5,
+name: "couscouse",
+ price:"60 DH",
+ image:require("../assets/images/image 8.png")
+
+
 }
+
 
 ];
 
